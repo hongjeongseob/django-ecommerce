@@ -2,6 +2,6 @@
     "python.pythonPath": "/Users/jeongseobhong/Desktop/eCommerece/venv/bin/python",
     "python.formatting.provider": "black",
     "editor.formatOnSave": true,
-    "editor.fontSize": 13,
+    "editor.fontSize": 16,
     "html.suggest.html5": true,
 }
